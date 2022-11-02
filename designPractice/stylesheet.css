@@ -1,0 +1,14 @@
+.home{
+    background-image:url('photos/watch.jpg');
+    width: 100%;
+    background-size: cover;
+    background-repeat: repeat;
+    font-family: serif;
+    color: white;
+    text-align: center;
+}
+.h1-styler{
+    text-align: center;
+    color: #909090;
+    font-size: 50px;
+}
